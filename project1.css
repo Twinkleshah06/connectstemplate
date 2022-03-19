@@ -1,0 +1,1964 @@
+/* body {
+    font-family: 'Oswald', sans-serif !important;
+} */
+
+.headerlogo {
+    padding: 15px;
+}
+
+.header2img {
+    height: 450px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 19.43%;
+    position: absolute;
+}
+
+.header2div2 {
+    height: 350px;
+}
+
+.header2box1 {
+    background-color: rgb(58, 25, 204);
+    box-shadow: 5px 5px 20px 0 rgb(0 0 0 / 40%);
+    height: 410px;
+    width: 400px;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+    left: 330px;
+    top: 300px;
+}
+
+.box1content {
+    padding: 25px;
+    font-size: 20px;
+    color: white;
+}
+
+.h2box2h1 {
+    font-size: 3rem;
+    font-weight: 400;
+    font-family: 'Oswald', sans-serif;
+}
+
+.h2box1h1 {
+    font-size: 3.42rem;
+    font-weight: 400;
+    font-family: 'Oswald', sans-serif;
+}
+
+.header2box2 {
+    background-color: #3e427e;
+    box-shadow: 5px 5px 20px 0 rgb(0 0 0 / 40%);
+    height: 410px;
+    width: 400px;
+    box-sizing: border-box;
+    left: 780px;
+    position: relative;
+    top: -240px;
+    z-index: 2;
+}
+
+.box2content {
+    padding: 25px;
+    font-size: 26px;
+    color: white;
+}
+
+.freepik {
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    /* padding-bottom: 15px; */
+}
+
+.header3 {
+    background-color: rgb(48, 48, 187);
+    margin-top: 570px;
+    padding: 90px;
+}
+
+.header3box1 {
+    width: 500px;
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+    text-align: left;
+    /* margin-top: 220px; */
+    margin-left: 70px;
+}
+
+.header3h1 {
+    font-size: 3.75rem;
+    font-weight: 700;
+    font-family: 'Oswald', sans-serif !important;
+}
+
+.header3box2 {
+    margin-left: 50px;
+}
+
+.header3para {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    margin-bottom: 40px;
+}
+
+.learnmore {
+    border-radius: 100px;
+    background-color: rgb(243, 154, 154);
+    color: white;
+    width: 230px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: none;
+}
+
+.allcard {
+    display: flex;
+}
+
+.card1 {
+    background-color: white;
+    width: 295px;
+    height: 330px;
+    margin: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 55px;
+    padding-bottom: 25px;
+    margin-top: 130px;
+}
+
+.u-icon-1 {
+    position: absolute;
+    fill: white;
+    background-color: lightcoral;
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+    background-image: none;
+    margin: 0 auto 0 0;
+}
+
+.u-icon-circle {
+    border-radius: 50%;
+}
+
+.card2 {
+    background-color: white;
+    width: 295px;
+    height: 330px;
+    margin: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 55px;
+    padding-bottom: 25px;
+    margin-top: 45px;
+}
+
+.u-icon-2 {
+    position: absolute;
+    fill: white;
+    background-color: rgb(250, 116, 205);
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+    background-image: none;
+    margin: 0 auto 0 0;
+}
+
+.card3 {
+    background-color: white;
+    width: 295px;
+    height: 330px;
+    margin: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 55px;
+    padding-bottom: 25px;
+}
+
+.u-icon-3 {
+    position: absolute;
+    fill: white;
+    background-color: rgb(106, 149, 243);
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+    background-image: none;
+    margin: 0 auto 0 0;
+}
+
+.card4 {
+    background-color: white;
+    width: 295px;
+    height: 330px;
+    margin: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 55px;
+    padding-bottom: 25px;
+    margin-top: 40px;
+}
+
+.u-icon-4 {
+    position: absolute;
+    fill: white;
+    background-color: rgb(141, 213, 247);
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+    background-image: none;
+    margin: 0 auto 0 0;
+}
+
+.card34 {
+    margin-left: 20px;
+}
+
+.cardheading {
+    margin-top: 100px;
+    font-family: Oswald, sans-serif !important;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.header3mainbox {
+    display: flex;
+}
+
+.card1para {
+    font: italic;
+    font-size: 17px;
+    line-height: 2rem;
+    font-weight: 15px;
+    color: gray;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.card2para {
+    font: italic;
+    font-size: 17px;
+    line-height: 2rem;
+    font-weight: 15px;
+    color: gray;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.card3para {
+    font: italic;
+    font-size: 17px;
+    line-height: 2rem;
+    font-weight: 15px;
+    color: gray;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.card4para {
+    font: italic;
+    font-size: 17px;
+    line-height: 2rem;
+    font-weight: 15px;
+    color: gray;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.h3box1h2 {
+    letter-spacing: 3px;
+    line-height: 24px;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.rectangle1 {
+    background-color: rgb(248, 191, 199);
+    height: 210px;
+    width: 22%;
+    margin-top: 160px;
+}
+
+.rectangle2 {
+    background-color: rgb(248, 191, 199);
+    height: 210px;
+    width: 15%;
+    margin-left: 6px;
+    margin-top: 160px;
+    position: relative;
+}
+
+.header4img {
+    height: 400px;
+    width: 320px;
+    object-fit: cover;
+    margin-left: 6px;
+}
+
+.rectangle12 {
+    display: flex;
+    margin-top: 90px;
+}
+
+.h4listbox {
+    margin-left: 340px;
+    position: absolute;
+    z-index: 2;
+}
+
+.header4heading {
+    margin-top: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 2.25rem;
+}
+
+.h4boxh1 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+
+.header4ul {
+    margin-top: 25px;
+}
+
+.header4li {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.header4link {
+    font-size: 18px;
+}
+
+.header4box {
+    width: 31%;
+    height: 495px;
+    background-color: rgb(45, 45, 201);
+    color: white;
+    position: absolute;
+    z-index: 2;
+    margin-left: 705px;
+    margin-top: 225px;
+}
+
+.header42img {
+    height: 300px;
+    width: 625px;
+    position: absolute;
+    margin-left: 894px;
+    margin-top: 90px;
+}
+
+.header4boxcont {
+    padding: 25px;
+    margin-top: 45px;
+}
+
+.header4btn {
+    border-radius: 100px;
+    background-color: rgb(243, 154, 154);
+    color: white;
+    width: 180px;
+    height: 60px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    font-weight: 700;
+    font-size: 1.125rem;
+    letter-spacing: 2px;
+}
+
+.header5 {
+    background-color: rgb(252, 201, 209);
+    margin-top: 390px;
+}
+
+.h5h1 {
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 3.75rem;
+    font-weight: 400;
+}
+
+.u-svg-content1 {
+    fill: white;
+    position: absolute;
+    top: 70px;
+    right: -88px;
+    left: 154px;
+}
+
+.svg1 {
+    width: 300px !important;
+    height: 139px !important;
+    position: relative;
+}
+
+.svg2 {
+    width: 313px;
+    position: relative;
+    margin-left: 66rem;
+    margin-top: 0rem;
+    top: 19rem;
+    left: -108px;
+}
+
+.u-svg-content2 {
+    position: absolute;
+    top: 70px;
+    right: -88px;
+    left: 154px;
+    fill: #2530c9;
+}
+
+.svg3 {
+    width: 240px;
+    position: relative;
+    margin-left: 66rem;
+    margin-top: 0rem;
+    top: 30rem;
+    left: -200px;
+}
+
+.u-svg-content3 {
+    position: absolute;
+    top: 75px;
+    right: -88px;
+    left: 154px;
+    fill: rgb(250, 157, 171);
+}
+
+.header5mainbox {
+    display: flex;
+    padding-bottom: 180px;
+    position: relative;
+}
+
+.header5img {
+    height: 540px;
+    width: 540px;
+    object-fit: cover;
+}
+
+.header5box2 {
+    background-color: white;
+    height: 540px;
+    width: 540px;
+}
+
+.header5box2cont {
+    margin: 40px;
+}
+
+.header5heading {
+    font-family: 'Oswald', sans-serif;
+    color: #2530c9 !important;
+    margin-top: 150px;
+}
+
+.header5para {
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 1rem;
+    margin-top: 25px;
+}
+
+.header5link {
+    font-size: large;
+    margin-top: 25px;
+}
+
+.header5btn {
+    border-radius: 100px;
+    background-color: rgb(243, 154, 154);
+    color: white;
+    width: 200px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: none;
+}
+
+.header5btn:hover {
+    background-color: rgb(28, 102, 212);
+}
+
+.header6div1 {
+    display: flex;
+}
+
+.header6div2 {
+    display: flex;
+    margin-top: 50px;
+    position: relative;
+}
+
+.clients8k {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(235, 53, 174);
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 148px;
+    font-family: 'Oswald', sans-serif;
+    padding-left: 30px;
+    padding-top: 30px;
+    margin-left: 306px;
+}
+
+.clientsh1 {
+    font-weight: 900;
+    font-size: 5.175rem;
+}
+
+.awards10k {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(98, 155, 240);
+    color: white;
+    /* font-family: 'Oswald', sans-serif; */
+    position: absolute;
+    z-index: 2;
+    margin-top: 281px;
+    margin-left: 600px;
+    padding-left: 40px;
+    padding-top: 85px;
+}
+
+.awardsh1 {
+    font-weight: 900;
+    font-size: 9.375rem;
+}
+
+.awardsp {
+    font-size: 1.25rem;
+    letter-spacing: 2px;
+}
+
+.clientsp {
+    font-size: 1.25rem;
+    letter-spacing: 2px;
+}
+
+.casesp {
+    font-size: 1.25rem;
+    letter-spacing: 2px;
+}
+
+.cases15k {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(23, 57, 209);
+    color: white;
+    margin-left: 545px;
+    margin-bottom: 100px;
+    font-family: 'Oswald', sans-serif;
+    padding-left: 40px;
+    padding-top: 85px;
+}
+
+.casesh1 {
+    font-weight: 900;
+    font-size: 8.375rem;
+}
+
+.header6div1cont {
+    font-family: 'Oswald', sans-serif;
+    line-height: 1.6;
+    width: 690px;
+    padding: 38px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.h6div1para {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.h6div2para {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.h6div1p {
+    font-family: 'Open Sans', sans-serif !important;
+    letter-spacing: 3px;
+    font-size: 1.25rem;
+}
+
+.header6div2cont {
+    font-family: 'Oswald', sans-serif;
+    line-height: 1.6;
+    width: 450px;
+    margin-left: 70px;
+    padding: 38px;
+}
+
+.header6heading {
+    font-size: 3.75rem;
+    color: #2530c9 !important;
+    ;
+}
+
+.header7 {
+    background-color: rgb(247, 199, 207);
+    height: 200px;
+}
+
+.header7cont {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+}
+
+.header7h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #2530c9 !important;
+    margin-top: 60px;
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.header7btn {
+    margin-top: 60px;
+    margin-left: 320px;
+    border-radius: 100px;
+    background-color: #2530c9 !important;
+    color: white;
+    width: 200px;
+    border: none;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.h8img {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 180px;
+}
+
+.header8img {
+    height: 350px;
+    width: 385px;
+    padding: 15px;
+}
+
+.portfolio {
+    height: 350px;
+    width: 385px;
+    padding: 15px;
+    text-align: center;
+    color: #2530c9 !important;
+}
+
+.portfolioh2 {
+    margin-top: 150px;
+    font-size: 3rem;
+    font-weight: 400;
+    font-family: 'Oswald', sans-serif !important;
+}
+
+.header8div1 {
+    display: flex;
+}
+
+.header8div2 {
+    display: flex;
+}
+
+.header8div3 {
+    display: flex;
+}
+
+.header9part1 {
+    background-color: rgb(48, 48, 197);
+    width: 65%;
+    height: 700px;
+    color: white;
+}
+
+.header9part2 {
+    background-color: white;
+}
+
+.header9div1 {
+    display: flex;
+}
+
+.header9h5 {
+    font-weight: 300;
+    font-size: 1.5rem;
+    margin-left: 260px;
+    margin-top: 90px;
+    letter-spacing: 3px;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+.header9h1 {
+    margin-left: 260px;
+    font-size: 4.25rem;
+    font-weight: 400;
+    font-family: 'Oswald', sans-serif;
+}
+
+.h9div2h6 {
+    font-weight: 400;
+    font-size: 1.125rem;
+}
+
+.h9div2para1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875rem;
+}
+
+.h9div2para3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875rem;
+}
+
+.h9div2para2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875rem;
+}
+
+.header9info {
+    padding: 50px;
+}
+
+.header9h4 {
+    color: #fc1aaf;
+    font-size: 27px;
+    font-family: 'Oswald', sans-serif !important;
+}
+
+.addr {
+    width: 260px;
+}
+
+.header9div2 {
+    background-color: rgb(48, 48, 197);
+    color: white;
+    height: 260px;
+}
+
+.header9headline {
+    display: flex;
+    margin-left: 260px;
+}
+
+.h9headline1 {
+    width: 330px;
+    margin-top: 90px;
+}
+
+.h9headline2 {
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+.h9headline3 {
+    margin-left: 160px;
+    margin-top: 90px;
+}
+
+.header9icon {
+    /* padding: 20px; */
+    margin: 20px;
+}
+
+.fa {
+    font-size: 1.775rem !important;
+    padding-left: 30px;
+}
+
+.header10 {
+    background-color: rgb(51, 49, 49);
+    height: 100px;
+    text-align: center;
+}
+
+.header10para {
+    padding-top: 35px;
+}
+
+@media screen and (max-width: 1441px) {
+    .header42img {
+        margin-left: 815px;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+    .header42img {
+        margin-left: 400px;
+    }
+    .u-svg-content1 {
+        fill: white;
+        position: absolute;
+        top: 30px;
+        right: -88px;
+        left: 0px;
+    }
+    .svg1 {
+        width: 200px !important;
+        height: 80px !important;
+    }
+    .svg2 {
+        left: -385px;
+        width: 260px;
+    }
+    .u-svg-content2 {
+        position: absolute;
+        top: 40px;
+        right: -88px;
+        left: 154px;
+        fill: #2530c9;
+    }
+    .svg3 {
+        left: -480px;
+    }
+    .u-svg-content3 {
+        position: absolute;
+        top: 15px;
+        right: -88px;
+        left: 145px;
+        fill: rgb(250, 157, 171);
+    }
+    .header5img {
+        height: 470px;
+        width: 470px;
+        object-fit: cover;
+    }
+    .header5box2 {
+        height: 470px;
+        width: 470p;
+    }
+    .header2box1 {
+        left: 70px;
+        top: 300px;
+    }
+    .header2box2 {
+        left: 550px;
+    }
+    .header3box1 {
+        margin-left: 0px;
+    }
+    .card1 {
+        background-color: white;
+        width: 245px;
+        height: 350px;
+        margin: 10px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 42px;
+        padding-bottom: 25px;
+    }
+    .card2 {
+        background-color: white;
+        width: 245px;
+        height: 350px;
+        margin: 10px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 42px;
+        padding-bottom: 25px;
+    }
+    .card3 {
+        background-color: white;
+        width: 245px;
+        height: 350px;
+        margin: 10px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 42px;
+        padding-bottom: 25px;
+    }
+    .card4 {
+        background-color: white;
+        width: 245px;
+        height: 350px;
+        margin: 10px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 42px;
+        padding-bottom: 25px;
+    }
+    .h5h1 {
+        font-size: 3rem;
+    }
+    .header5btn {
+        font-weight: 700;
+        letter-spacing: 2px;
+    }
+    .header3box1 {
+        width: 370px;
+        color: white;
+        font-size: 18px;
+        padding-top: 20px;
+        text-align: left;
+        margin-top: 200px;
+        margin-left: 10px;
+    }
+    .header3h1 {
+        font-size: 3.75rem;
+        font-weight: 700;
+    }
+    .header3para {
+        width: 360px;
+    }
+    .header3 {
+        padding-left: 30px;
+        padding-right: 20px;
+    }
+    .card12 {
+        margin-top: 100px;
+    }
+    .card34 {
+        margin-left: 10px;
+    }
+    .card2 {
+        margin-top: 30px;
+    }
+    .card4 {
+        margin-top: 30px;
+    }
+    .h6div1p {
+        letter-spacing: 3px;
+    }
+    .awards10k {
+        height: 300px;
+        width: 300px;
+        margin-left: 353px;
+        margin-top: 315px;
+    }
+    .cases15k {
+        height: 300px;
+        width: 300px;
+        margin-left: 188px;
+    }
+    .clients8k {
+        margin-left: 0px;
+        margin-right: 128px;
+    }
+    .h6div2para {
+        width: 200px;
+    }
+    .h6div1para {
+        width: 400px;
+    }
+    .awardsh1 {
+        font-weight: 750px;
+        font-size: 7.375rem;
+    }
+    .casesh1 {
+        font-weight: 750px;
+        font-size: 7.375rem;
+    }
+    .header7h1 {
+        margin-top: 50px;
+    }
+    .header7btn {
+        margin-top: 50px;
+        margin-left: 180px;
+    }
+    .header6heading {
+        font-weight: 400;
+    }
+    .header8img {
+        height: 290px;
+        width: 330px;
+    }
+    .portfolio {
+        height: 290px;
+        width: 330px;
+        padding: 15px;
+        text-align: center;
+        color: blue;
+    }
+    .portfolioh2 {
+        margin-top: 90px;
+        font-size: 3rem;
+    }
+    .h8img {
+        margin-left: 17px;
+    }
+    .header9headline {
+        margin-left: 55px;
+    }
+    .header9h5 {
+        margin-left: 79px;
+        margin-top: 52px;
+    }
+    .header9h1 {
+        margin-left: 79px;
+    }
+    .h9div2para1 {
+        font-size: 0.875rem;
+    }
+    .leadership {
+        margin-top: 112px;
+    }
+    .development {
+        margin-top: 112px;
+    }
+    .rectangle1 {
+        background-color: rgb(248, 191, 199);
+        height: 210px;
+        width: 15%;
+        margin-top: 160px;
+    }
+    .rectangle2 {
+        width: 25%;
+    }
+    .header4box {
+        margin-left: 525px;
+        width: 44%;
+        height: 495px;
+    }
+    .header4btn {
+        width: 210px;
+    }
+    .header42img {
+        height: 350px;
+        width: 430px;
+        position: absolute;
+        margin-left: 594px;
+        margin-top: 40px;
+    }
+    .h4listbox {
+        margin-left: 160px;
+    }
+    .h4boxh1 {
+        /* width: 350px; */
+        font-size: 2.25rem;
+    }
+    .header4boxcont {
+        padding: 40px;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .header2div2 {
+        display: grid;
+    }
+    .header2box1 {
+        height: 312px;
+        width: 712px;
+        box-sizing: border-box;
+        position: relative;
+        z-index: 1;
+        left: 28px;
+        top: 200px;
+    }
+    .box1content {
+        padding: 25px;
+        font-size: 20px;
+        color: white;
+        font-family: 'Oswald', sans-serif;
+    }
+    .header2box2 {
+        height: 312px;
+        width: 712px;
+        box-sizing: border-box;
+        left: 28px;
+        position: relative;
+        top: 235px;
+        z-index: 2;
+    }
+    .box2content {
+        padding: 25px;
+        font-size: 26px;
+        color: white;
+        font-family: 'Oswald', sans-serif;
+    }
+    .h2box1h1 {
+        width: 282px;
+    }
+    .freepik {
+        margin-top: 500px;
+    }
+    .header3 {
+        margin-top: 870px;
+    }
+    .header3para {
+        width: 660px;
+    }
+    .header3h1 {
+        width: 660px;
+    }
+    .card1 {
+        width: 330px;
+        height: 310px;
+    }
+    .card2 {
+        width: 330px;
+        height: 310px;
+    }
+    .card3 {
+        width: 330px;
+        height: 310px;
+    }
+    .card4 {
+        width: 330px;
+        height: 310px;
+    }
+    .allcard {
+        margin-top: 30px;
+    }
+    .header3box2 {
+        margin-left: 0px;
+    }
+    .header42img {
+        margin-left: 0px;
+    }
+    .header3mainbox {
+        display: grid;
+    }
+    .svg2 {
+        left: -629px;
+        width: 250px;
+    }
+    .u-svg-content2 {
+        top: -30px;
+        right: -88px;
+        left: 156px;
+    }
+    .svg3 {
+        left: -750px;
+    }
+    .u-svg-content3 {
+        top: -80px;
+        right: -88px;
+        left: 170px;
+    }
+    .header5 {
+        margin-top: 814px;
+    }
+    .header4box {
+        margin-top: 1050px;
+        width: 65%;
+        height: 410px;
+        margin-left: 156px;
+    }
+    .header4boxcont {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .header42img {
+        margin-top: 445px;
+        margin-left: 338px;
+    }
+    .header4heading {
+        font-size: 3.75rem;
+    }
+    .header4li {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1rem;
+    }
+    .header4btn {
+        width: 210px;
+    }
+    .rectangle2 {
+        display: none;
+    }
+    .rectangle1 {
+        height: 390px;
+        width: 20%;
+    }
+    .header4img {
+        height: 700px;
+        width: 490px;
+        object-fit: cover;
+        margin-left: 6px;
+    }
+    .header5img {
+        height: 375px;
+        width: 360px;
+        object-fit: cover;
+    }
+    .header5box2 {
+        height: 375px;
+        width: 385px;
+    }
+    .header5box2cont {
+        margin: 15px;
+    }
+    .header5heading {
+        margin-top: 8px;
+    }
+    .header7h1 {
+        margin-top: 30px;
+    }
+    .header7btn {
+        margin-bottom: 30px;
+        width: 355px;
+        height: 58px;
+    }
+    .header8img {
+        height: 265px;
+        width: 240px;
+    }
+    .portfolio {
+        height: 265px;
+        width: 240px;
+        padding: 15px;
+        text-align: center;
+        color: blue;
+    }
+    .portfolioh2 {
+        margin-top: 90px;
+        font-size: 2.2rem;
+    }
+    .h8img {
+        margin-left: 24px;
+    }
+    .cases15k {
+        margin-left: 130px;
+    }
+    .header6div1cont {
+        margin-left: 20px;
+    }
+    .h9headline1 {
+        width: 170px;
+    }
+    .h9headline2 {
+        margin-left: 72px;
+    }
+    .h9headline3 {
+        margin-left: 118px;
+    }
+    .header9part1 {
+        width: 60%;
+    }
+    .header9info {
+        padding-right: 0px;
+        padding-left: 35px;
+    }
+    .fa {
+        font-size: 1.975rem !important;
+        padding-left: 30px;
+    }
+    .header9icon {
+        margin-top: 130px;
+    }
+    .addr {
+        margin-bottom: 30px;
+    }
+    .header9h4 {
+        margin-bottom: 15px;
+    }
+    .h9num {
+        margin-bottom: 30px;
+    }
+    .h6div1p {
+        letter-spacing: 3px;
+    }
+    .awards10k {
+        height: 215px;
+        width: 215px;
+        margin-left: 275px;
+        margin-top: 402px;
+        padding-left: 22px;
+        padding-top: 40px;
+    }
+    .cases15k {
+        height: 215px;
+        width: 215px;
+        margin-left: 65px;
+        margin-top: 52px;
+        margin-bottom: 35px;
+        padding-left: 22px;
+        padding-top: 40px;
+    }
+    .clients8k {
+        height: 215px;
+        width: 215px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .awardsh1 {
+        font-size: 5.375rem;
+    }
+    .casesh1 {
+        font-size: 5.375rem;
+    }
+    .clientsh1 {
+        font-size: 5.375rem;
+    }
+    .header6div2 {
+        margin-top: 0px;
+    }
+    .header6div2cont {
+        margin-left: 20px;
+        padding-top: 0px;
+    }
+    .header6div1cont {
+        padding-right: 0px;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 536px;
+    }
+    .h6div1para {
+        margin-right: 0px;
+    }
+    .header6heading {
+        width: 349px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .header2box1 {
+        height: 380px;
+        width: 330px;
+        top: 223px;
+        left: 47px;
+    }
+    .box1content {
+        padding: 25px;
+        font-size: 18px;
+        color: white;
+        font-family: 'Oswald', sans-serif;
+    }
+    .header2box2 {
+        height: 380px;
+        width: 330px;
+        left: 47px;
+        top: 260px;
+    }
+    .h2box1h1 {
+        font-size: 2.25rem;
+        width: 179px;
+    }
+    .h2box1p {
+        font-family: 'Open Sans', sans-serif;
+    }
+    .h2box2p {
+        font-size: 1.5rem;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .box2content {
+        padding: 25px;
+        font-size: 23px;
+        color: white;
+        font-family: 'Oswald', sans-serif;
+    }
+    .freepik {
+        margin-top: 360px;
+    }
+    .header3para {
+        width: 335px;
+    }
+    .header3 {
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-top: 853px;
+        padding-bottom: 58px;
+    }
+    .header3box1 {
+        margin-left: 40px;
+    }
+    .header3h1 {
+        /* width: 415px; */
+        font-size: 3rem;
+        width: 380px;
+    }
+    .h3box1h2 {
+        letter-spacing: 3px;
+        line-height: 24px;
+        font-weight: 400;
+    }
+    .card12 {
+        margin-top: 0px;
+    }
+    .card1 {
+        margin-left: 47px;
+    }
+    .card2 {
+        margin-left: 47px;
+    }
+    .card3 {
+        margin-left: 37px;
+    }
+    .card4 {
+        margin-left: 37px;
+    }
+    .allcard {
+        display: grid;
+    }
+    .header42img {
+        margin-left: 83px;
+        margin-top: 512px;
+        height: 289px;
+        width: 342px;
+    }
+    .header4heading {
+        font-size: 3rem;
+    }
+    .header4li {
+        font-size: 1.125rem;
+    }
+    .svg2 {
+        left: -964px;
+        width: 245px;
+        top: 18rem;
+    }
+    .u-svg-content2 {
+        top: 390px;
+        right: -88px;
+        left: 156px;
+    }
+    .svg3 {
+        left: -1080px;
+        width: 255px;
+        top: 28rem;
+    }
+    .u-svg-content3 {
+        top: 330px;
+        right: -88px;
+        left: 170px;
+    }
+    .header4img {
+        width: 320px;
+        height: 400px;
+    }
+    .rectangle1 {
+        height: 282px;
+        width: 9%;
+        margin-top: 86px;
+    }
+    .rectangle12 {
+        margin-top: 65px;
+    }
+    .header4box {
+        margin-left: 24px;
+        margin-top: 732px;
+        width: 88%;
+        height: 443px;
+    }
+    .h4listbox {
+        margin-left: 45px;
+    }
+    .header5 {
+        margin-top: 840px;
+    }
+    .header5mainbox {
+        display: grid;
+    }
+    .header5img {
+        width: 367px;
+        margin-left: 14px;
+    }
+    .header5box2 {
+        width: 367px;
+        margin-left: 14px;
+    }
+    .header6heading {
+        font-size: 2.1rem;
+        width: 344px;
+    }
+    .header6div2cont {
+        margin-top: 300px;
+        margin-left: 0px;
+    }
+    .header6div1cont {
+        width: 62px;
+    }
+    .h6div2para {
+        width: 202px;
+    }
+    .h6div1para {
+        width: 287px;
+    }
+    .header6div2cont {
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 116px;
+        margin-top: 593px;
+        margin-left: 20px;
+    }
+    .h6div1p {
+        width: 136px;
+        letter-spacing: 3px;
+    }
+    .clients8k {
+        margin-top: 420px;
+    }
+    .cases15k {
+        margin-left: 42px;
+        margin-top: 307px;
+    }
+    .awards10k {
+        margin-left: 130px;
+        margin-top: 670px;
+    }
+    .header7 {
+        height: 380px;
+    }
+    .header7h1 {
+        margin-top: 60px;
+        margin-right: 25px;
+    }
+    .header7btn {
+        margin-top: 65px;
+        height: 63px;
+        margin-left: 65px;
+        width: 210px;
+    }
+    .header7cont {
+        display: grid;
+        margin-left: 20px;
+    }
+    .header8img {
+        height: 301px;
+        width: 379px;
+    }
+    .portfolio {
+        height: 169px;
+        width: 240px;
+        padding: 15px;
+        text-align: center;
+        color: blue;
+    }
+    .portfolioh2 {
+        margin-top: 50px;
+        font-size: 2.2rem;
+        width: 210px;
+        margin-left: 70px;
+    }
+    .h8img {
+        margin-left: 24px;
+    }
+    .header8div1 {
+        display: grid;
+    }
+    .header8div2 {
+        display: grid;
+    }
+    .header8div3 {
+        display: grid;
+    }
+    .header9h1 {
+        font-size: 47px;
+        margin-left: 66px;
+    }
+    .h9headline1 {
+        width: 327px;
+        margin-left: 68px;
+    }
+    .h9headline3 {
+        margin-left: 68px;
+    }
+    .header9h5 {
+        margin-left: 68px;
+        width: 222px;
+        font-size: 1.30rem;
+    }
+    .header9part1 {
+        width: 91%;
+    }
+    .header9div1 {
+        display: grid;
+    }
+    .header9div2 {
+        height: 600px;
+    }
+    .header9headline {
+        margin-left: 10px;
+        display: grid;
+    }
+    .header9info {
+        padding-left: 52px;
+    }
+    .header9icon {
+        margin-bottom: 60px;
+        margin-top: 0px;
+    }
+    .header10para {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .header2img {
+        height: 400px;
+    }
+    .header2box1 {
+        left: 10px;
+        width: 355px;
+        height: 365px;
+    }
+    .h2box1h1 {
+        font-size: 2rem;
+    }
+    .header2box2 {
+        left: 10px;
+        width: 355px;
+        height: 365px;
+    }
+    .h2box2h1 {
+        font-size: 2rem;
+    }
+    .header3 {
+        margin-top: 820px;
+    }
+    .header3para {
+        margin-left: 16px;
+    }
+    .learnmore {
+        margin-left: 16px;
+    }
+    .header3h1 {
+        width: 325px;
+        margin-left: 16px;
+    }
+    .h3box1h2 {
+        font-size: 1.35rem;
+        margin-left: 16px;
+    }
+    .header3box1 {
+        margin-left: 0px;
+        margin-top: 155px;
+    }
+    .card1 {
+        margin-left: 12px;
+        width: 353px;
+    }
+    .card2 {
+        margin-left: 12px;
+        width: 353px;
+    }
+    .card3 {
+        margin-left: 12px;
+        width: 353px;
+    }
+    .card4 {
+        margin-left: 12px;
+        width: 353px;
+    }
+    .card34 {
+        margin-left: 0px;
+    }
+    .rectangle1 {
+        width: 3%;
+    }
+    .header4img {
+        width: 343px;
+        height: 412px;
+    }
+    .header4box {
+        margin-left: 11px;
+        width: 95%;
+    }
+    .h4listbox {
+        margin-left: 10px;
+    }
+    .header42img {
+        margin-left: 25px;
+        width: 350px;
+        height: 272px;
+    }
+    .header5 {
+        margin-top: 821px;
+    }
+    .header5img {
+        width: 345px;
+        height: 360px;
+        margin-left: 0px;
+    }
+    .h5h1 {
+        font-size: 2rem;
+    }
+    .header5link {
+        margin-top: 33px;
+    }
+    .header5box2 {
+        width: 345px;
+        height: 360px;
+        margin-left: 0px;
+    }
+    .svg2 {
+        left: -1015px;
+        width: 246px;
+        top: 16rem;
+    }
+    .svg3 {
+        left: -1123px;
+        top: 26rem;
+    }
+    .header6heading {
+        width: 321px;
+    }
+    .clients8k {
+        width: 200px;
+        height: 200px;
+    }
+    .clientsh1 {
+        font-size: 5rem;
+    }
+    .awards10k {
+        margin-left: 150px;
+        margin-top: 650px;
+        height: 200px;
+        width: 200px;
+    }
+    .awardsh1 {
+        font-size: 5rem;
+    }
+    .cases15k {
+        width: 200px;
+        height: 200px;
+        margin-left: 0px;
+    }
+    .casesh1 {
+        font-size: 5rem;
+    }
+    .h6div2para {
+        width: 139px;
+    }
+    .header6div2cont {
+        padding-bottom: 14px;
+    }
+    .header7btn {
+        margin-left: 34px;
+        height: 60px;
+        width: 205px;
+    }
+    .header8img {
+        width: 343px;
+        padding-left: 0px;
+    }
+    .portfolioh2 {
+        margin-left: 42px;
+    }
+    .h9headline1 {
+        margin-left: 7px;
+    }
+    .h9headline2 {
+        margin-left: 7px;
+        margin-top: 78px;
+    }
+    .h9headline3 {
+        margin-left: 7px;
+        margin-top: 78px;
+    }
+    .header9h1 {
+        margin-left: 17px;
+    }
+    .header9part1 {
+        width: 97%;
+        height: 590px;
+    }
+    .leadership {
+        margin-top: 81px;
+    }
+    .development {
+        margin-top: 88px;
+    }
+    .header9info {
+        padding-left: 18px;
+    }
+    .header9icon {
+        margin-left: 0px;
+    }
+    .header9h5 {
+        width: 303px;
+        margin-left: 19px;
+    }
+    .header9div2 {
+        height: 560px;
+    }
+    .header10para {
+        width: 241px;
+        margin-left: 65px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .header2box1 {
+        width: 285px;
+        height: 338px;
+        left: 17px;
+    }
+    .box1content {
+        font-size: 16px;
+    }
+    .box2content {
+        font-size: 22px;
+    }
+    .header2img {
+        height: 327px;
+    }
+    .header2box2 {
+        width: 285px;
+        height: 328px;
+        left: 17px;
+    }
+    .h2box2p {
+        font-size: 1.3rem;
+    }
+    .header3 {
+        margin-top: 753px;
+    }
+    .header3para {
+        width: 303px;
+    }
+    .header3box1 {
+        width: 100%;
+        font-size: 16px;
+        margin-top: 35px;
+    }
+    .header3h1 {
+        width: 254px;
+        font-size: 2.3rem;
+    }
+    .h3box1h2 {
+        width: 247px;
+        font-size: 1rem;
+    }
+    .card1 {
+        width: 296px;
+        height: 293px;
+        padding-top: 28px;
+    }
+    .card2 {
+        width: 296px;
+        height: 293px;
+        padding-top: 28px;
+    }
+    .card3 {
+        width: 296px;
+        height: 293px;
+        padding-top: 28px;
+    }
+    .card4 {
+        width: 296px;
+        height: 293px;
+        padding-top: 28px;
+    }
+    .card1para {
+        font-size: 16px;
+    }
+    .card2para {
+        font-size: 16px;
+    }
+    .card3para {
+        font-size: 16px;
+    }
+    .card4para {
+        font-size: 16px;
+    }
+    .header4img {
+        width: 283px;
+    }
+    .h4boxh1 {
+        font-size: 20px;
+        width: 255px;
+    }
+    .header4box {
+        width: 90%;
+    }
+    .header4boxcont {
+        padding-left: 20px;
+    }
+    .header42img {
+        margin-left: 37px;
+        width: 283px;
+    }
+    .header5img {
+        width: 288px;
+        height: 245px;
+    }
+    .header5para {
+        font-size: 16px;
+    }
+    .header5box2 {
+        width: 288px;
+        height: 326px;
+    }
+    .h5h1 {
+        font-size: 1.9rem;
+    }
+    .svg2 {
+        left: -1039px;
+        width: 215px;
+        top: 8rem;
+    }
+    .svg3 {
+        width: 245px;
+        left: -1160px;
+        top: 16rem;
+    }
+    .awards10k {
+        margin-left: 87px;
+        height: 170px;
+        width: 170px;
+    }
+    .awardsh1 {
+        font-size: 4rem;
+    }
+    .clients8k {
+        height: 170px;
+        width: 170px;
+    }
+    .clientsh1 {
+        font-size: 4rem;
+    }
+    .cases15k {
+        height: 170px;
+        width: 170px;
+    }
+    .casesh1 {
+        font-size: 4rem;
+    }
+    .header6div1cont {
+        padding-left: 21px;
+    }
+    .h6div1p {
+        font-size: 1rem;
+    }
+    .header6heading {
+        width: 265px;
+    }
+    .header7h1 {
+        font-size: 2rem;
+    }
+    .header7 {
+        height: 347px;
+    }
+    .header7btn {
+        margin-left: 6px;
+        height: 49px;
+        width: 199px;
+        margin-top: 40px;
+    }
+    .header8img {
+        width: 273px;
+        height: 245px;
+        padding-right: 0px;
+    }
+    .portfolioh2 {
+        margin-left: 18px;
+    }
+    .header9h5 {
+        width: 287px;
+        font-size: 1rem;
+    }
+    .header9part1 {
+        width: 92%;
+    }
+    .header9h1 {
+        font-size: 42px;
+    }
+    .h9headline1 {
+        width: 289px;
+    }
+    .header10para {
+        font-size: 12px;
+        margin-left: 0px;
+        width: 320px;
+    }
+    .header10 {
+        height: 85px;
+    }
+}
